@@ -20,9 +20,9 @@ ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel t
 
 ## Program:
 
-Developed By: PRASANNAKUMAR
+Developed By: Lishali R
 
-Reg.No:212220230035
+Reg.No:212220230028
 ### 1. Block.x=1023
 ```
 #include "../common/common.h" 
